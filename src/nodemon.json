@@ -1,0 +1,7 @@
+{
+  "env":{
+    "MANGO_USER":"imthuvee",
+    "PASSWORD":"vinothini",
+    "MONGO_DB":"gf-book"
+  }
+}
